@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cesaradese@gmail.com
+	name = Cesar Ades
